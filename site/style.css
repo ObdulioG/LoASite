@@ -1,0 +1,7 @@
+body {background-color: dimgrey;}
+h1, h2, div {
+	color: white;
+	font-family: sans-serif;
+}
+.whiteColor {color: white;}
+#headerImage {text-align: center;}
